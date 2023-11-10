@@ -1,4 +1,3 @@
-const { default: axios } = require('axios');
 const api = require('./Api/BooksApi');
 const database = require('./Database/config')
 const cors= require('cors')
